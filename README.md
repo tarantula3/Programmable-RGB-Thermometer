@@ -1,4 +1,4 @@
-# Programmable-RGB-Thermometer
+# Programmable RGB Thermometer
 
 [![WecOhmHxspg](https://i.imgur.com/kTU78NV.jpeg)](https://www.youtube.com/watch?v=WecOhmHxspg)
 
