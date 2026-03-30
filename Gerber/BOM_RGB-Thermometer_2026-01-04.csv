@@ -1,0 +1,6 @@
+ID,Name,Designator,Footprint,Quantity,Manufacturer Part,Manufacturer,Supplier,Supplier Part,Price
+1,"MINI_ AC-DC_ 220V_0,7 A 5V",IC2,"MINI_ AC-DC_ 220V_0,7 A 5V",1,,,,,
+2,NEW_FOOTPRINT,.,NEW_FOOTPRINT,1,ESP32 SuperMini C3,,,,
+3,WS2812B,,WS2812B,1,RGB LED Strip,,,,
+4,DS18B20,,DS18B20,1,Temperature Sensor,,,,
+5,Resistance,,4.7K,1,Resistance,,,,
