@@ -54,6 +54,9 @@ String URLUpdateTemp    = "http://XXX.XXX.XXX.XXX/UpdateTemperature.php";
 
 
 void setup() {
+    // Set max TX power to 8.5 dBm (the most stable value reported by users)
+    esp_wifi_set_max_tx_power(WIFI_POWER_8_5dBm);
+    
     Serial.begin(9600); // Turn on serial monitor    
   
     // Connect to the Wi-Fi Network
