@@ -6,6 +6,7 @@
 // Blog    : http://diy-projects4u.blogspot.com/                                          //
 /******************************************************************************************/
 
+#include <esp_wifi.h>
 #include <OneWire.h>
 #include <Adafruit_NeoPixel.h>
 #include <DallasTemperature.h>
